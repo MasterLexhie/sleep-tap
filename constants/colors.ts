@@ -1,0 +1,17 @@
+export const Colors = {
+  bg: '#100c07',
+  surf: '#1c1510',
+  elev: '#261d14',
+  elev2: '#30231a',
+  acc: '#c4844a',
+  accDim: '#7a4e28',
+  accGlow: '#c4844a18',
+  txtPrimary: '#ede0cc',
+  txtSecondary: '#a89080',
+  txtTertiary: '#6d5c4a',
+  bdr: '#2e2318',
+  bdr2: '#3d2e20',
+  success: '#5ab060',
+  successBg: '#0d2010',
+  successBdr: '#2a5030',
+} as const;
